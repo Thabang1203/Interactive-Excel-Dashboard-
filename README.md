@@ -1,2 +1,3 @@
-# Interactive-Excel-Dashboard-
-Interactive Excel dashboard in four simple steps. First, we'll set up the dashboard structure using Excel shapes and images. Then, we'll look at the dataset and analyze it with pivot tables to get the relevant numbers. Third, we'll build the right charts and visuals. These include some KPIs (key performance indicators).
+As a recent Bachelor of Information Systems graduate at University of Fort Hare, I am seeking a role which allows me to continue learning and perfecting my skills as I provide high-quality work, and encourages me to flourish as a junior data analyst. Major(s) : Introduction to Computers & Computing, Essentials of Information Technology, Fundamentals of Information Systems, Introduction to programming for Business, Databases(Microsoft SQL
+Server), Systems Design and Implementation, Business and Systems Analysis, Systems Development Project, IS/IT Project Management, Emergent Technologies, Enterprise Information Systems & Mobile Application
+Development
